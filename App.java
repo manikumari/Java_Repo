@@ -1,6 +1,8 @@
 public class App{
     public static void main(String[]args){
         System.out.println("Hello World!");
-        ForLoop_Practice.Print_Ten_Numbers();
+        //ForLoop_Practice.Print_Ten_Numbers();
+        Math_Util.Pow_Of_X(2,4);
+
     }
 }
